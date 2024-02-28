@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm a Backend Java Developer passionate about buil
 
 Here are a few notable projects I've worked on:
 
-1. **Project Name**: Brief description
+1. **Project Name**: spring-boot-quiz-app
    - Technologies used: ,Java, Spring Boot, HTML, CSS , Bootstrap, Mysql
-   - Link: [spring-boot-quiz-app](https://github.com/garvitjuneja016/spring-boot-quiz-app)
-   - ![Project Screenshot](project_screenshot.png)
+   - Link: spring-boot-quiz-app(https://github.com/garvitjuneja016/spring-boot-quiz-app)
+   - !Project Screenshot (https://github.com/garvitjuneja016/spring-boot-quiz-app/tree/main/screenshotsg)
 
 2. **Project Name**: Brief description
    - Technologies used: Spring, Hibernate, JavaScript
