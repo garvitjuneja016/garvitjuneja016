@@ -15,7 +15,7 @@ Here are a few notable projects I've worked on:
 
 1. **Project Name**: Brief description
    - Technologies used: ,Java, Spring Boot, HTML, CSS , Bootstrap, Mysql
-   - Link: [Project Repository]()
+   - Link: [spring-boot-quiz-app](https://github.com/garvitjuneja016/spring-boot-quiz-app)
    - ![Project Screenshot](project_screenshot.png)
 
 2. **Project Name**: Brief description
