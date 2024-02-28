@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hello, I'm GARVIT JUNEJA! 👋
 
-<!--
-**garvitjuneja016/garvitjuneja016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Backend Java Developer passionate about building scalable and efficient applications. Here's a glimpse of my skills and interests:
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java(Proficient), C++, Python
+- **Frameworks**: Spring, Spring Boot, Hibernate
+- **Database**: MySQL
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap
+
+## Projects
+
+Here are a few notable projects I've worked on:
+
+1. **Project Name**: Brief description
+   - Technologies used: Spring Boot, MySQL, HTML, CSS
+   - Link: [Project Repository](link)
+   - ![Project Screenshot](project_screenshot.png)
+
+2. **Project Name**: Brief description
+   - Technologies used: Spring, Hibernate, JavaScript
+   - Link: [Project Repository](link)
+   - ![Project Screenshot](project_screenshot.png)
+
+## Contact Me
+
+Feel free to reach out to me for collaboration or any inquiries:
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/garvit-juneja-6b00b2192)
+- Email: garvitjuneja016@gmail.com
+
+## Additional Information
+
+- 🌱 I’m currently learning [Spring-Security Module And Docker]
+- 💬 Ask me about anything related to Java, Spring, or backend development.
+- ⚡ Fun fact: Crypto Lover!!!
+
+
