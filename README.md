@@ -14,8 +14,8 @@ Welcome to my GitHub profile! I'm a Backend Java Developer passionate about buil
 Here are a few notable projects I've worked on:
 
 1. **Project Name**: Brief description
-   - Technologies used: Spring Boot, MySQL, HTML, CSS
-   - Link: [Project Repository](link)
+   - Technologies used: ,Java, Spring Boot, HTML, CSS , Bootstrap, Mysql
+   - Link: [Project Repository]()
    - ![Project Screenshot](project_screenshot.png)
 
 2. **Project Name**: Brief description
