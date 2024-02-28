@@ -20,7 +20,7 @@ Here are a few notable projects I've worked on:
 
 2. **Project Name**: "online-book-store"
    - Technologies used: Spring, Java, Hibernate, HTML, CSS, JavaScript, Mysql
-   - Link: online-book-store (https://github.com/garvitjuneja016/online-book-store/tree/main)
+   - Link: online-book-store (https://github.com/garvitjuneja016/online-book-store)
 
 ## Contact Me
 
